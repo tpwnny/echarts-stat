@@ -1,14 +1,3 @@
-# ecStat
-
-A statistical and data mining tool for [Apache ECharts](https://github.com/apache/echarts). You can use it to analyze data and then visualize the results with ECharts, or just use it to process data.
-
-It works both in node.js and in the browser.
-
-*Read this in other languages: [English](README.md), [简体中文](README.zh-CN.md).*
-
-## Installing
-
-If you use npm, you can install it with:
 
 ```sh
 npm install echarts-stat
